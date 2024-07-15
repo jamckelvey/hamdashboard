@@ -137,9 +137,10 @@ const aIMG = [
   
   // Line 2
   [
-    "UNIV PKY & RESEARCH PKY", 
+    "UNIV-RESEARCH-MLK", 
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=UnivPkwy_Bethabara.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=MLK_ResearchPkwy.jpg&t=1720491569836",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=MLK_BowmanGray.jpg&t=1721013894466",
   ],
   [
     "BUS 40/421",
