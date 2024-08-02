@@ -51,6 +51,12 @@ const aURL = [
     "https://time.is/", 
     "1"
   ],
+  [
+    "2196F3", 
+    "HAM BANDS", 
+    "https://hamradioprepper.com/wp-content/uploads/2020/02/arrlbands.jpg", 
+    "1"
+  ],
 
   // Right Side
   ["add10d", "BACK", "#", "1", "R"],
