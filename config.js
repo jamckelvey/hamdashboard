@@ -83,7 +83,7 @@ const aURL = [
   [
     "E1341E",
     "AVIATION",
-    "https://aviationweather.gov/gfa/#obs",
+    "https://aviationweather.gov/gfa/?center=35.003,-83.606&zoom=6",
     "1",
     "R",
   ],
@@ -102,13 +102,6 @@ const aURL = [
     "R",
   ],
   [
-    "E1341E",
-    "NOAA SPACE",
-    "https://swpc.noaa.gov/communities/radio-communications",
-    "1",
-    "R",
-  ],
-  [
     "C700FF",
     "TRAFFIC",
     "https://drivenc.gov/?ref=share&type=county&id=Forsyth&layers=congestion&pins=incidents_road-work,incidents_other-incidents,roads_interstate,roads_us,roads_nc",
@@ -118,7 +111,7 @@ const aURL = [
   [
     "FFD100",
     "ADSB",
-    "http://globe.adsbexchange.com/?airport=KGSO&enableLabels&extendedLabels=1",
+    "http://globe.adsbexchange.com/?airport=KGSO",  //&enableLabels&extendedLabels=1
     "1",
     "R",
   ],
