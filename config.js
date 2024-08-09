@@ -104,7 +104,7 @@ const aURL = [
   [
     "E1341E",
     "NOAA SPACE",
-    "https://www.swpc.noaa.gov/communities/radio-communications",
+    "https://swpc.noaa.gov/communities/radio-communications",
     "1",
     "R",
   ],
