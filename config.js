@@ -41,6 +41,12 @@ const aURL = [
   ],
   [
     "2196F3", 
+    "REVERSE BCN", 
+    "https://reversebeacon.net/main.php?rows=50", 
+    "1",
+  ],
+  [
+    "2196F3", 
     "DX CLUSTER", 
     "https://dxcluster.ha8tks.hu/map/", 
     "1",
@@ -76,8 +82,8 @@ const aURL = [
   ],
   [
     "E1341E",
-    "WEATHER",
-    "https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=36.1232&lon=-80.2681&zoom=5",
+    "AVIATION",
+    "https://aviationweather.gov/gfa/#obs",
     "1",
     "R",
   ],
@@ -85,6 +91,20 @@ const aURL = [
     "E1341E",
     "WINDS",
     "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-88.91,35.98,2274",
+    "1",
+    "R",
+  ],
+  [
+    "E1341E",
+    "SPACE WEATHER",
+    "https://www.spaceweather.com",
+    "1",
+    "R",
+  ],
+  [
+    "E1341E",
+    "NOAA SPACE",
+    "https://www.swpc.noaa.gov/communities/radio-communications",
     "1",
     "R",
   ],
@@ -98,7 +118,7 @@ const aURL = [
   [
     "FFD100",
     "ADSB",
-    "http://globe.adsbexchange.com/?airport=KINT&enableLabels&extendedLabels=1",
+    "http://globe.adsbexchange.com/?airport=KGSO&enableLabels&extendedLabels=1",
     "1",
     "R",
   ],
