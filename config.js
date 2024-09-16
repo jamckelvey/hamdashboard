@@ -134,6 +134,7 @@ const aIMG = [
   [
     "I-40",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_LewisvilleClemmonsRd.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_Jonestown.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_PetersCreek.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_SilasCreek.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_I40.jpg",
@@ -161,8 +162,8 @@ const aIMG = [
     // See https://prop.kc2g.com/about/
     "https://prop.kc2g.com/renders/current/mufd-normal-now.svg",
     "https://prop.kc2g.com/renders/current/fof2-normal-now.svg",
+    "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG",
   ],
-  //  ["10M PROPAGATION", "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"],
   [
     "AURORA FORECAST",
     "https://services.swpc.noaa.gov/experimental/images/aurora_dashboard/tonights_static_viewline_forecast.png",
@@ -177,6 +178,10 @@ const aIMG = [
 
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
 const tileDelay = [
-  11200, 10000, 11000, 10100, 30200, 30500, 30300, 30600, 10400, 15700, 10900,
-  15800,
+  // line 1
+  11200, 10000, 11000, 10100,
+  // line 2
+  20200, 20500, 20300, 20600,
+  // line 3
+  10400, 15700, 10900, 15800,
 ];
