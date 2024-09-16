@@ -135,10 +135,10 @@ const aIMG = [
     "I-40",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_LewisvilleClemmonsRd.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_PetersCreek.jpg",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_SilasCreek.jpg&t=1726524711810",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_SilasCreek.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_I40.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_mm196.jpg",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_ChimneyRock.jpg&t=1726524832570",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_ChimneyRock.jpg",
   ],
   [
     "US 52",
@@ -148,6 +148,7 @@ const aIMG = [
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52S_ResearchPkwyW.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_Mock.jpg",
   ],
+
   // Line 3
   [
     "NOAA D-RAP",
