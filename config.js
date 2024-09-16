@@ -10,58 +10,23 @@ const aURL = [
   ["0dd1a7", "Help", "#", "1"],
   ["2196F3", "Open Spot", "http://192.168.50.206/#status", "1"],
   [
-    "2196F3", 
-    "JS8 ACTIVITY", 
+    "2196F3",
+    "JS8 ACTIVITY",
     "https://www.pskreporter.info/pskmap.html?preset&callsign=K4MKE&mode=JS8&timerange=10800&hidelines=1&textalwaysblack=1&mapCenter=6.693387699871266,-58.41097275008994,2.72345939923975",
-     "1",
-  ],
-  [
-    "2196F3", 
-    "APRS", 
-    "https://aprs.to/?center=36.0777,-80.1377&zoom=11", 
-    "1.0",
-  ],
-  [
-    "2196F3", 
-    "YAAC APRS", 
-    "http://192.168.50.4:8008/",
-    "1"
-  ],
-  [
-    "2196F3", 
-    "POTA",
-    "https://pota.app/#/",
     "1",
   ],
+  ["2196F3", "APRS", "https://aprs.to/?center=36.0777,-80.1377&zoom=11", "1.0"],
+  ["2196F3", "YAAC APRS", "http://192.168.50.4:8008/", "1"],
+  ["2196F3", "POTA", "https://pota.app/#/", "1"],
+  ["2196F3", "CONTEST", "https://www.contestcalendar.com/fivewkcal.html", "1"],
+  ["2196F3", "REVERSE BCN", "https://reversebeacon.net/main.php?rows=50", "1"],
+  ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1"],
+  ["2196F3", "TIME.IS", "https://time.is/", "1"],
   [
     "2196F3",
-    "CONTEST",
-    "https://www.contestcalendar.com/fivewkcal.html",
+    "HAM BANDS",
+    "https://hamradioprepper.com/wp-content/uploads/2020/02/arrlbands.jpg",
     "1",
-  ],
-  [
-    "2196F3", 
-    "REVERSE BCN", 
-    "https://reversebeacon.net/main.php?rows=50", 
-    "1",
-  ],
-  [
-    "2196F3", 
-    "DX CLUSTER", 
-    "https://dxcluster.ha8tks.hu/map/", 
-    "1",
-  ],
-  [
-    "2196F3", 
-    "TIME.IS", 
-    "https://time.is/", 
-    "1"
-  ],
-  [
-    "2196F3", 
-    "HAM BANDS", 
-    "https://hamradioprepper.com/wp-content/uploads/2020/02/arrlbands.jpg", 
-    "1"
   ],
 
   // Right Side
@@ -78,7 +43,7 @@ const aURL = [
     "RADAR",
     "https://s.w-x.co/staticmaps/wu/wu/wxtype1200_cur/usclt/animate.png",
     "1",
-    "R"
+    "R",
   ],
   [
     "E1341E",
@@ -94,13 +59,7 @@ const aURL = [
     "1",
     "R",
   ],
-  [
-    "E1341E",
-    "SPACE WEATHER",
-    "https://www.spaceweather.com",
-    "1",
-    "R",
-  ],
+  ["E1341E", "SPACE WEATHER", "https://www.spaceweather.com", "1", "R"],
   [
     "C700FF",
     "TRAFFIC",
@@ -111,7 +70,7 @@ const aURL = [
   [
     "FFD100",
     "ADSB",
-    "http://globe.adsbexchange.com/?airport=KGSO",  //&enableLabels&extendedLabels=1
+    "http://globe.adsbexchange.com/?airport=KGSO", //&enableLabels&extendedLabels=1
     "1",
     "R",
   ],
@@ -130,13 +89,13 @@ const aIMG = [
     "https://www.wpc.ncep.noaa.gov/noaa/noaa.gif",
     "https://www.spc.noaa.gov/exper/mesoanalysis/activity_loop.gif",
     "https://www.spc.noaa.gov/products/watch/validww.png",
-    "https://www.weather.gov/wwamap/png/US.png", 
-    "https://www.spc.noaa.gov/climo/reports/today.gif", 
-    "https://www.wpc.ncep.noaa.gov/threats/final/hazards_d3_7_contours.png", 
+    "https://www.weather.gov/wwamap/png/US.png",
+    "https://www.spc.noaa.gov/climo/reports/today.gif",
+    "https://www.wpc.ncep.noaa.gov/threats/final/hazards_d3_7_contours.png",
     "https://www.wpc.ncep.noaa.gov/qpf/fill_94qwbg.gif",
   ],
   // [
-  //   "US RADAR", 
+  //   "US RADAR",
   //   "https://radar.weather.gov/ridge/standard/CONUS_loop.gif",
   // ],
   [
@@ -148,33 +107,38 @@ const aIMG = [
     "https://graphical.weather.gov/GraphicalNDFD.php?width=515&timezone=EDT&sector=MIDATLANTIC&element=ppi&n=4",
   ],
   [
-    "Tropical Outlook", 
+    "Tropical Outlook",
     //"https://www.nhc.noaa.gov/xgtwo/two_atl_0d0.png",
     "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
     "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png",
   ],
-  
+
   // Line 2
   [
-    "UNIV-RESEARCH-MLK", 
+    "UNIV-RESEARCH-MLK",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=UnivPkwy_NofOakSummit.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=UnivPkwy_Bethabara.jpg",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=MLK_ResearchPkwy.jpg&t=1720491569836",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=MLK_BowmanGray.jpg&t=1721013894466",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=MLK_ResearchPkwy.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=MLK_BowmanGray.jpg",
   ],
   [
     "BUS 40/421",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US421_SalemLake.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=Bus40_Linville.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_SandyRidge.jpg",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US421_MainSt.jpg&t=1720843090394",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US421_BroadSt.jpg&t=1720843149395",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US421_SilasCreekPkwy.jpg&t=1720843144426",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US421_MainSt.jpg&",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US421_BroadSt.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US421_SilasCreekPkwy.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US421_I74Beltway_N.jpg",
   ],
   [
     "I-40",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_LewisvilleClemmonsRd.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_PetersCreek.jpg",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_I40.jpg&t=1720490945113",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_mm196.jpg&t=1720491011626",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_SilasCreek.jpg&t=1726524711810",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_I40.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_mm196.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_ChimneyRock.jpg&t=1726524832570",
   ],
   [
     "US 52",
@@ -197,9 +161,9 @@ const aIMG = [
     "https://prop.kc2g.com/renders/current/mufd-normal-now.svg",
     "https://prop.kc2g.com/renders/current/fof2-normal-now.svg",
   ],
-//  ["10M PROPAGATION", "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"],
+  //  ["10M PROPAGATION", "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"],
   [
-    "AURORA FORECAST", 
+    "AURORA FORECAST",
     "https://services.swpc.noaa.gov/experimental/images/aurora_dashboard/tonights_static_viewline_forecast.png",
   ],
   [
@@ -212,7 +176,6 @@ const aIMG = [
 
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
 const tileDelay = [
-  11200, 10000, 11000, 10100,
-  30200, 30500, 30300, 30600,
-  10400, 15700, 10900, 15800
+  11200, 10000, 11000, 10100, 30200, 30500, 30300, 30600, 10400, 15700, 10900,
+  15800,
 ];
