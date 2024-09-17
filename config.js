@@ -105,8 +105,8 @@ const aIMG = [
   ],
   [
     "FORECAST",
-    "https://graphical.weather.gov/GraphicalNDFD.php?width=515&timezone=EDT&sector=MIDATLANTIC&element=pop12&n=3",
-    "https://graphical.weather.gov/GraphicalNDFD.php?width=515&timezone=EDT&sector=MIDATLANTIC&element=MaxT&n=3",
+    "https://graphical.weather.gov/GraphicalNDFD.php?width=515&timezone=EDT&sector=MIDATLANTIC&element=pop12&n=1",
+    "https://graphical.weather.gov/GraphicalNDFD.php?width=515&timezone=EDT&sector=MIDATLANTIC&element=MaxT&n=1",
     "https://graphical.weather.gov/GraphicalNDFD.php?width=515&timezone=EDT&sector=MIDATLANTIC&element=windspd&n=3",
   ],
   [
