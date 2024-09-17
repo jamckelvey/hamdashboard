@@ -93,6 +93,7 @@ const aIMG = [
     "https://www.spc.noaa.gov/climo/reports/today.gif",
     "https://www.wpc.ncep.noaa.gov/threats/final/hazards_d3_7_contours.png",
     "https://www.wpc.ncep.noaa.gov/qpf/fill_94qwbg.gif",
+    "https://graphical.weather.gov/GraphicalNDFD.php?width=515&timezone=EDT&sector=CONUS&element=maxt&n=1",
   ],
   // [
   //   "US RADAR",
@@ -103,8 +104,10 @@ const aIMG = [
     "https://s.w-x.co/staticmaps/wu/wu/wxtype1200_cur/usclt/animate.png",
   ],
   [
-    "PRECIP FORECAST",
-    "https://graphical.weather.gov/GraphicalNDFD.php?width=515&timezone=EDT&sector=MIDATLANTIC&element=ppi&n=4",
+    "FORECAST",
+    "https://graphical.weather.gov/GraphicalNDFD.php?width=515&timezone=EDT&sector=MIDATLANTIC&element=pop12&n=3",
+    "https://graphical.weather.gov/GraphicalNDFD.php?width=515&timezone=EDT&sector=MIDATLANTIC&element=MaxT&n=3",
+    "https://graphical.weather.gov/GraphicalNDFD.php?width=515&timezone=EDT&sector=MIDATLANTIC&element=windspd&n=3",
   ],
   [
     "Tropical Outlook",
