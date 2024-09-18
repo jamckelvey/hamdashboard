@@ -168,17 +168,18 @@ const aIMG = [
     "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG",
   ],
   [
-    "AURORA FORECAST",
+    "",
     "https://services.swpc.noaa.gov/experimental/images/aurora_dashboard/tonights_static_viewline_forecast.png",
     "https://services.swpc.noaa.gov/experimental/images/aurora_dashboard/tomorrow_nights_static_viewline_forecast.png",
   ],
   [
-    "HF PROPAGATION",
+    "",
     "https://www.hamqsl.com/solar101vhf.php",
     //"https://www.hamqsl.com/solar100sc.php",
     "https://www.hamqsl.com/solarbc.php",
     //"https://www.hamqsl.com/solarpich.php",
     "https://www.hamqsl.com/solarsun.php",
+    "https://spaceweather.bradford.ac.uk/ASAP_latest/flaremonitor_24.png",
   ],
 ];
 
