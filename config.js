@@ -94,6 +94,7 @@ const aIMG = [
     "https://www.wpc.ncep.noaa.gov/threats/final/hazards_d3_7_contours.png",
     "https://www.wpc.ncep.noaa.gov/qpf/fill_94qwbg.gif",
     "https://graphical.weather.gov/GraphicalNDFD.php?width=515&timezone=EDT&sector=CONUS&element=maxt&n=1",
+    "https://droughtmonitor.unl.edu/data/png/current/current_usdm.png",
   ],
   // [
   //   "US RADAR",
@@ -114,6 +115,7 @@ const aIMG = [
     //"https://www.nhc.noaa.gov/xgtwo/two_atl_0d0.png",
     "https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png",
     "https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/CONUS/Sandwich/GOES16-CONUS-Sandwich-625x375.gif",
   ],
 
   // Line 2
