@@ -88,7 +88,7 @@ const aIMG = [
     "",
     "https://www.wpc.ncep.noaa.gov/noaa/noaa.gif",
     "https://www.spc.noaa.gov/exper/mesoanalysis/activity_loop.gif",
-    "https://www.spc.noaa.gov/products/watch/validww.png",
+    //"https://www.spc.noaa.gov/products/watch/validww.png",
     "https://www.weather.gov/wwamap/png/US.png",
     "https://www.spc.noaa.gov/climo/reports/today.gif",
     "https://www.wpc.ncep.noaa.gov/threats/final/hazards_d3_7_contours.png",
