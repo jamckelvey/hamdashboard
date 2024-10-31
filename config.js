@@ -161,9 +161,10 @@ const aIMG = [
 
   // Line 3
   [
-    "NOAA D-RAP",
+    //"NOAA D-RAP",
     //"https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
-    "https://amrron.com/net-resourcestools/amcon-amrron-communications-condition-level/#post-4180",
+    "",
+    "iframe|https://www.youtube.com/embed/ANDE3adJUzs?si=GkPx7ONiI24MsaL0?autoplay=1&mute=1",
   ],
   [
     "",
