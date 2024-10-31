@@ -164,7 +164,7 @@ const aIMG = [
     //"NOAA D-RAP",
     //"https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
     "",
-    "iframe|https://www.youtube.com/embed/ANDE3adJUzs?si=GkPx7ONiI24MsaL0?autoplay=1&mute=1",
+    "iframe|https://www.youtube.com/embed/ANDE3adJUzs?si=GkPx7ONiI24MsaL0&autoplay=1&mute=1",
   ],
   [
     "",
