@@ -1,16 +1,31 @@
-[YouTube - Presentation video](https://www.youtube.com/watch?v=sIdqMQTGNSc)
+Original VA3HDL [YouTube - Presentation video](https://www.youtube.com/watch?v=sIdqMQTGNSc)
 
-### Live Dashboards:
+### User submitted live Dashboards:
 
-[Hamdash Demo](https://va3hdl.github.io/hamdash/)  -- Test it before download
+[Hamdash Demo](https://va3hdl.github.io/hamdash/)  -- Test it here before download
 
-[BCAT N4TDX](https://www.n4tdx.org/dashboard/dashboard.html)  -- User submitted live dashboard by Steve N5NG, in use by the Brevard County (Florida) ARES Team!!!
+[BCAT N4TDX](https://qsl.net/n/n5ng/BCAT/)  -- by Steve N5NG, in use by the Brevard County (Florida) ARES Team
+
+* Links for Steve's weather and hamradio config.js as .txt files:
+  * https://qsl.net/n5ng/config.txt
+  * https://qsl.net/n5ng/HAM/config.txt
+
+[FFX DEMS](https://kq4dne.github.io/WeatherDash/WeatherDash.html)  -- by Sandy KQ4DNE for Emergency Management Weather
+
+[FFX ARES](https://kq4dne.github.io/hamdash/hamdash.html)  -- by Sandy KQ4DNE for ARES
+
+[WA4MED](https://dashboard.wa4med.us/hamdash.html)  -- by Matthew WA4MED
+
+[W2SZ](https://dashboard.w2sz.org/)  -- by Brian W2SZ
+
+[N2YQT](https://dashboard.tourge.net/)  -- by Ryan N2YQT
 
 ### Instructions:
 1. Just download the files from the Github repository (hamdash.html, config.js, and wheelzoom.js) and keep them together on the same folder.
 2. Open hamdash.html with any browser of your preference and you done.
 3. With any text editor (like Notepad) you can change the source images (can be more than one per box) or the menu options from the config.js file.
 
+### YouTube coverage:
 [YouTube - Configuration instructions contributed by Jason KM4ACK](https://youtu.be/9ZZXg60tN-o)
 
 [YouTube - Raspberry Pi instructions contributed by Andreas M0FXB](https://www.youtube.com/watch?v=Km_vOCvCMFM)
@@ -19,7 +34,14 @@
 
 [YouTube - Live Stream with Temporarily Offline Ham Radio KM9G](https://www.youtube.com/watch?v=ohlHaSsf6B8=400s)
 
+[YouTube - Ham Dashboard on Inovato Quadra by Peter KJ5AJB](https://www.youtube.com/watch?v=u07Oz-YSrQY)
+
 [YouTube - French review and instructions by Jean-Benard F5SVP](https://www.youtube.com/watch?v=o9Dl9A5hqQI)
+
+[YouTube - Repaso e instrucciones en Español con Jose EA8EE](https://www.youtube.com/watch?v=3CnsfB3zNuM)
+
+### Docker:
+[Docker version](https://registry.hub.docker.com/r/michaelsteven/hamdashboard)  -- by Michael Stevens
 
 ### Quick Help:
 * Double click on an image to expand to full screen.
@@ -66,6 +88,14 @@ As a workaround for these issues, I've tested running a local proxy on my comput
 If you want to upgrade to the latest version, the only file you need to update is hamdash.html (do not overwrite your config.js file.)
 
 Check updated demo!
+
+### 2024.10.16 Changelog:
+
+- Added website capability to tiles using "iframe|" keyword before the tile URL. Check the updated config.js file for usage examples. The tiles can contain any website that supports embedding using iFrame, including live YouTube videos!
+
+### 2024.07.24 Changelog:
+
+- Added "Discussions" to GitHub options for users to share their menu and image sources and anything else interesting -- https://github.com/VA3HDL/hamdashboard/discussions
 
 ### 2024.07.06 Changelog:
 
@@ -149,6 +179,16 @@ Tutorial contributed by Robert W3RDW
 ![KJ7T Sample Dashboard](https://github.com/VA3HDL/hamdashboard/blob/main/examples/KJ7T-sample.png?raw=true)
 
 ![K4HNH Sample Dashboard](https://github.com/VA3HDL/hamdashboard/blob/main/examples/K4HNH-sample.jpg?raw=true)
+
+![CT1ETE Sample Dashboard](https://github.com/VA3HDL/hamdashboard/blob/main/examples/CT1ETE-sample.jpg?raw=true)
+
+![VK3FS Sample Dashboard](https://github.com/VA3HDL/hamdashboard/blob/main/examples/VK3FS-sample.png?raw=true)
+
+![W5EAK Sample Dashboard](https://github.com/VA3HDL/hamdashboard/blob/main/examples/W5EAK-sample.jpg?raw=true)
+
+![WI5L Sample Dashboard](https://github.com/VA3HDL/hamdashboard/blob/main/examples/WI5L-sample.jpg?raw=true)
+
+![WX9WTF Sample Dashboard](https://github.com/VA3HDL/hamdashboard/blob/main/examples/WX9WTF-sample.jpg?raw=true)
 
 ### Dual menu example:
 ![Dual side Menu Sample Dashboard](https://github.com/VA3HDL/hamdashboard/blob/main/examples/DualMenu.png?raw=true)
