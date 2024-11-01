@@ -164,8 +164,12 @@ const aIMG = [
     //"NOAA D-RAP",
     //"https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
     "",
+    // Newsmax 2 - feeds stop playing randomly
     //"iframe|https://www.youtube.com/embed/ANDE3adJUzs?si=GkPx7ONiI24MsaL0&autoplay=1&mute=1",
-    "iframe|https://rumble.com/embed/v3qehjc/?pub=jm0dx&autoplay=2",
+    //"iframe|https://rumble.com/embed/v3qehjc/?pub=jm0dx&autoplay=2",
+    // Fox
+    "iframe|https://www.youtube.com/embed/YDfiTGGPYCk?si=LbNNIitaKjPWrOmB&autoplay=1&mute=1",
+    // OAN - Not free
   ],
   [
     "",
