@@ -165,7 +165,7 @@ const aIMG = [
     //"https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
     "",
     //"iframe|https://www.youtube.com/embed/ANDE3adJUzs?si=GkPx7ONiI24MsaL0&autoplay=1&mute=1",
-    "iframe|https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html",
+    "iframe|https://rumble.com/embed/v3qehjc/?pub=4",
   ],
   [
     "",
