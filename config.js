@@ -120,7 +120,7 @@ const aIMG = [
 
   // Line 2
   [
-    "UNIV-RESEARCH-MLK-HIGH POINT",
+    "Univ-Reasearch-MLK-High Pt",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=UnivPkwy_NofOakSummit.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=UnivPkwy_Bethabara.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=MLK_ResearchPkwy.jpg",
@@ -176,7 +176,6 @@ const aIMG = [
     //"iframe|https://rumble.com/embed/v3qehjc/?pub=jm0dx&autoplay=2",
     // Fox
     "iframe|https://www.youtube.com/embed/YDfiTGGPYCk?si=LbNNIitaKjPWrOmB&autoplay=1&mute=1",
-    // OAN - Not free
   ],
   [
     "",
