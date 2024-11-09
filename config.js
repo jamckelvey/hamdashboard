@@ -157,6 +157,8 @@ const aIMG = [
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_SalemCreek.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52S_ResearchPkwyW.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_Mock.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_Clemmonsville.jpg&t=1731186344166",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_103MainSt.jpg&t=1731186381135",
   ],
 
   // Line 3
