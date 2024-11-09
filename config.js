@@ -120,11 +120,15 @@ const aIMG = [
 
   // Line 2
   [
-    "UNIV-RESEARCH-MLK",
+    "UNIV-RESEARCH-MLK-HIGH POINT",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=UnivPkwy_NofOakSummit.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=UnivPkwy_Bethabara.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=MLK_ResearchPkwy.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=MLK_BowmanGray.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=HP-MainSt_WardAve.jpg&t=1731187065624",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=HP-GreenDr_WrennSt.jpg&t=1731187140275",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=HP-MainSt_HighAve.jpg&t=1731187178756",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=HP-CollegeDr_LexingtonAve.jpg&t=1731187202624",
   ],
   [
     "BUS 40/421",
@@ -141,6 +145,7 @@ const aIMG = [
   [
     "I-40",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_LewisvilleClemmonsRd.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_McGregorRd.jpg&t=1731186773440",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_Jonestown.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_PetersCreek.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_SilasCreek.jpg",
