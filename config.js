@@ -198,7 +198,7 @@ const aIMG = [
     "https://www.hamqsl.com/solarbc.php",
     //"https://www.hamqsl.com/solarpich.php",
     "https://www.hamqsl.com/solarsun.php",
-    "https://spaceweather.bradford.ac.uk/ASAP_latest/flaremonitor_24.png",
+    "https://services.swpc.noaa.gov/images/animations/suvi/primary/131/latest.png",
   ],
 ];
 
@@ -209,5 +209,5 @@ const tileDelay = [
   // line 2
   20200, 20500, 20300, 20600,
   // line 3
-  900000, 15700, 10900, 15800,
+  1800000, 15700, 10900, 15800,
 ];
