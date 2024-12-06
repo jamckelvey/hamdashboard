@@ -175,7 +175,7 @@ const aIMG = [
     //"iframe|https://www.youtube.com/embed/ANDE3adJUzs?si=GkPx7ONiI24MsaL0&autoplay=1&mute=1",
     //"iframe|https://rumble.com/embed/v3qehjc/?pub=jm0dx&autoplay=2",
     // Fox
-    "iframe|https://www.youtube.com/embed/SJLdVnUt6Xk?autoplay=1&mute=1",
+    "iframe|https://www.youtube.com/embed/YDfiTGGPYCk?si=KcHeKPBNzSixfCw-?autoplay=1&mute=1",
   ],
   [
     "",
