@@ -120,7 +120,7 @@ const aIMG = [
 
   // Line 2
   [
-    "Univ-Reasearch-MLK-High Pt-Arden",
+    "W.S.-High Pt-Arden",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=UnivPkwy_NofOakSummit.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=UnivPkwy_Bethabara.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=MLK_ResearchPkwy.jpg",
