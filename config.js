@@ -1,4 +1,4 @@
-const topBarCenterText = `K4MKE - EM96uc`;
+const topBarCenterText = `K4MKE - EM96uc`
 // Menu items
 // Structure is as follows HTML Color code, Option, target URL, scaling 1=Original Size, side (optional, nothing is Left, "R" is Right)
 // The values are [color code, menu text, target link, scale factor, side],
@@ -74,7 +74,7 @@ const aURL = [
     "1",
     "R",
   ],
-];
+]
 
 // Dashboard items
 // Structure is Title, Image Source URL
@@ -120,18 +120,19 @@ const aIMG = [
 
   // Line 2
   [
-    "Univ-Reasearch-MLK-High Pt",
+    "Univ-Reasearch-MLK-High Pt-Arden",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=UnivPkwy_NofOakSummit.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=UnivPkwy_Bethabara.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=MLK_ResearchPkwy.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=MLK_BowmanGray.jpg",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=HP-MainSt_WardAve.jpg&t=1731187065624",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=HP-GreenDr_WrennSt.jpg&t=1731187140275",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=HP-MainSt_HighAve.jpg&t=1731187178756",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=HP-CollegeDr_LexingtonAve.jpg&t=1731187202624",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=HP-MainSt_WardAve.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=HP-MainSt_HighAve.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=HP-CollegeDr_LexingtonAve.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US25_NC280.jpg",
   ],
   [
     "BUS 40/421",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US421_MLK.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US421_SalemLake.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=Bus40_Linville.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_SandyRidge.jpg",
@@ -145,7 +146,7 @@ const aIMG = [
   [
     "I-40",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_LewisvilleClemmonsRd.jpg",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_McGregorRd.jpg&t=1731186773440",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_McGregorRd.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_Jonestown.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_PetersCreek.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=I40_SilasCreek.jpg",
@@ -156,14 +157,17 @@ const aIMG = [
   [
     "US 52",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_Univ.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_Liberty.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_25th.jpg",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_RamsNB.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_MLK.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_RamsNB.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_RamsSB.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_SalemCreek.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52N_ResearchPkwyE.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52S_ResearchPkwyW.jpg",
     "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_Mock.jpg",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_Clemmonsville.jpg&t=1731186344166",
-    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_103MainSt.jpg&t=1731186381135",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_Waughtown.jpg",
+    "https://eapps.ncdot.gov/services/traffic-prod/v1/cameras/images?filename=US52_Clemmonsville.jpg",
   ],
 
   // Line 3
@@ -200,7 +204,7 @@ const aIMG = [
     "https://www.hamqsl.com/solarsun.php",
     "https://services.swpc.noaa.gov/images/animations/suvi/primary/131/latest.png",
   ],
-];
+]
 
 // Image rotation intervals in milliseconds per tile - If the line below is commented, all tiles will be rotated every 30000 milliseconds (30s)
 const tileDelay = [
@@ -210,4 +214,4 @@ const tileDelay = [
   20200, 20500, 20300, 20600,
   // line 3
   900000, 15700, 10900, 15800,
-];
+]
