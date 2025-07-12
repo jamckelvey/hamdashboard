@@ -172,8 +172,10 @@ const aIMG = [
 
   // Line 3
   [
-    "NOAA D-RAP",
+    "",
     "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
+    "https://www.hamqsl.com/solar101vhf.php",
+    "https://www.hamqsl.com/solarbc.php",
     //"",
     // Newsmax 2 - feeds stop playing randomly
     //"iframe|https://www.youtube.com/embed/ANDE3adJUzs?si=GkPx7ONiI24MsaL0&autoplay=1&mute=1",
@@ -198,12 +200,11 @@ const aIMG = [
   ],
   [
     "",
-    "https://www.hamqsl.com/solar101vhf.php",
     //"https://www.hamqsl.com/solar100sc.php",
-    "https://www.hamqsl.com/solarbc.php",
     //"https://www.hamqsl.com/solarpich.php",
     "https://www.hamqsl.com/solarsun.php",
     "https://services.swpc.noaa.gov/images/animations/suvi/primary/131/latest.png",
+    "https://sdo.gsfc.nasa.gov/assets/img/latest/latest_2048_211193171.jpg",
   ],
 ]
 
