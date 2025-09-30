@@ -158,10 +158,9 @@ const aIMG = [
   // Line 3
   [
     '',
-    'rtsp://admin:799CQaUS42yk@192.168.50.156:554//h265Preview_01_main',
-    //"https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
-    //"https://www.hamqsl.com/solar101vhf.php",
-    //"https://www.hamqsl.com/solarbc.php",
+    'https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png',
+    'https://www.hamqsl.com/solar101vhf.php',
+    'https://www.hamqsl.com/solarbc.php',
     //"",
     // Newsmax 2 - feeds stop playing randomly
     //"iframe|https://www.youtube.com/embed/ANDE3adJUzs?si=GkPx7ONiI24MsaL0&autoplay=1&mute=1",
