@@ -191,6 +191,7 @@ const aIMG = [
     'https://www.hamqsl.com/solarsun.php',
     'https://services.swpc.noaa.gov/images/animations/suvi/primary/131/latest.png',
     'https://sdo.gsfc.nasa.gov/assets/img/latest/latest_2048_211193171.jpg',
+    'https://jsoc1.stanford.edu/data/hmi/images/latest/HMI_latest_Int_1024x1024.gif',
   ],
 ]
 
