@@ -179,8 +179,8 @@ const aIMG = [
   ],
   [
     '',
-    'https://services.swpc.noaa.gov/experimental/images/aurora_dashboard/tonights_static_viewline_forecast.png',
-    'https://services.swpc.noaa.gov/experimental/images/aurora_dashboard/tomorrow_nights_static_viewline_forecast.png',
+    'https://services.swpc.noaa.gov/experimental/images/aurora_dashboard/tonights_static_viewline_forecast.jpg',
+    'https://services.swpc.noaa.gov/experimental/images/aurora_dashboard/tomorrow_nights_static_viewline_forecast.jpg',
     'https://soho.nascom.nasa.gov/data/synoptic/sel/satenv-small.gif',
   ],
   [
